@@ -33,6 +33,7 @@
 
 <details>
 <summary><b>ᴄʀᴇᴅɪᴛꜱ 🖤</b></summary>
+<br>
 
 - [Pʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
 - [Tᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
@@ -40,6 +41,7 @@
 
 <details>
 <summary><b>ꜱᴜᴘᴘᴏʀᴛ ✨</b></summary>
+<br>
 
 <a href="https://t.me/TheAltron"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
   
