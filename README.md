@@ -1,24 +1,47 @@
-<p align="center"><a href="https://t.me/TheAltron_X"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<h1 align="center"><b>😈 𝐏𝐲𝐭𝐡𝐨𝐧𝐗 𝐎𝐏🔥💫 😈</b></h1>
 
-━━━━━━━━━━━━━━━━━━━━━━
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒</h4>
 
-# ㅤㅤㅤ Aʟᴛʀᴏɴ 🖤
-ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
-
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/Altron_X)
-
-━━━━━━━━━━━━━━━━━━━━━━
-# ㅤㅤㅤDᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴛʀᴏɴ​
-<p align="left"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- ━━━━━━━━━━━━━━━━━━━━━━
-
-# ㅤㅤㅤCʀᴇᴅɪᴛs ✌
+<p align="center"><a href="https://t.me/ThExSTaR"><img src="https://te.legra.ph/file/a16370a520bc91f651884.jpg" width="400"></a></p>
 
 
-- [Sʜᴀɪʟᴇɴᴅʀᴀ](https://github.com/Shailendra34)ㅤㅤㅤㅤㅤㅤㅤㅤ
+> ⭐️ Thanks to everyone for using THIS OP TelePy SPAM CODE, That is the greatest pleasure we have !
 
-- [PʏTɢCᴀʟʟs](https://github.com/pytgcalls/pytgcalls)
+<details>
+<summary><b>ꜰᴇᴀᴛᴜʀᴇꜱ</b></summary>
+<br>
 
-- [Pʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+- ꜱᴘᴀᴍᴍɪɴɢ
+- ᴘʀɪᴠᴀᴛᴇ ɢʀᴏᴜᴘ ᴊᴏɪɴ ꜰᴇᴀᴛᴜʀᴇ
+- ʀᴀɪᴅ - ɴᴏ ʙᴀɴ
+  
+</details>    
+    
 
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+
+<details>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItZxSTaR%2FTheTelePy)
+  
+</details>
+
+
+# ᴄʀᴇᴅɪᴛꜱ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ
+
+<details>
+<summary><b>ᴄʀᴇᴅɪᴛꜱ 🖤</b></summary>
+<br>
+
+- [Pʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
+</details>
+
+<details>
+<summary><b>ꜱᴜᴘᴘᴏʀᴛ ✨</b></summary>
+<br>
+
+<a href="https://t.me/TheAltron"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+  
+</details>
