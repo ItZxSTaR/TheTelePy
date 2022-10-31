@@ -28,11 +28,9 @@
   
 </details>
 
-<details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
-
 # ꜱᴜᴘᴘᴏʀᴛ ✨
+
+<details>
 <a href="https://t.me/TheAltron"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
