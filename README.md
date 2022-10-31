@@ -36,6 +36,7 @@
 <br>
 
 - [Pʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
+- [Tᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)
 </details>
 
 <details>
