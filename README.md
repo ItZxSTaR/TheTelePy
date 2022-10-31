@@ -28,9 +28,20 @@
   
 </details>
 
-# ꜱᴜᴘᴘᴏʀᴛ ✨
+
+# ᴄʀᴇᴅɪᴛꜱ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ
 
 <details>
-<a href="https://t.me/TheAltron"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<summary><b>ᴄʀᴇᴅɪᴛꜱ 🖤</b></summary>
+<br>
+- [Pʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
 
+</details>
+
+<details>
+<summary><b>ꜱᴜᴘᴘᴏʀᴛ ✨</b></summary>
+<br>
+
+<a href="https://t.me/TheAltron"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+  
 </details>
