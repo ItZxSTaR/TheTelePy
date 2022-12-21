@@ -232,16 +232,16 @@ async def spam(e):
                 await asyncio.sleep(0.1)
 
 
-@M1.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M2.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M3.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M4.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M5.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M6.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M7.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M8.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M9.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
-@M10.on(events.NewMessage(incoming=True, pattern=r"\.oneword"))
+@M1.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M2.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M3.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M4.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M5.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M6.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M7.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M8.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M9.on(events.NewMessage(incoming=True, pattern=r"l0l"))
+@M10.on(events.NewMessage(incoming=True, pattern=r"l0l"))
 async def oneword(e):
     if e.sender_id in MK_USERS:
         chat_id = e.chat_id
